@@ -1,0 +1,1 @@
+Search.setIndex({objects:{},terms:{regard:1,todai:1,special:1,thi:1,happend:1,post:[0,1],noth:1,sitemap:0,first:[0,1]},objtypes:{},titles:["Sitemap","First Post"],objnames:{},filenames:["master","2014/02/10/first_post"]})
